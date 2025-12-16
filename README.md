@@ -1,2 +1,2 @@
 # Learning-Git-and-Git_Hub
-Class Exercises to understand version control and to be able to use git hub effectively. 
+Exercises on python and version control. 
